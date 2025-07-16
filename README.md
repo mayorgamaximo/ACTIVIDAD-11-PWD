@@ -25,9 +25,13 @@ La aplicación permite al usuario reproducir una canción y ver cómo elementos 
 ## 📁 Estructura del Proyecto
 caja-musica/
 ├── index.html
+
 ├── styles.css
+
 ├── sketch.js
+
 └── assets/
+
 └── videoplayback.m4a  (Tu archivo de música)
 
 ## 📦 Cómo Usar
