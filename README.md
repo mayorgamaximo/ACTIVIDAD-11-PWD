@@ -41,12 +41,8 @@ caja-musica/
     ```bash
     git clone https://github.com/mayorgamaximo/ACTIVIDAD-11-PWD.git
     ```
-2.  **Navegar al Directorio del Proyecto:**
-    ```bash
-    cd caja-musica
-    ```
-3.  **Añadir tu Música:** Asegúrate de tener tu archivo de música (actualmente configurado como `videoplayback.m4a`) dentro de la carpeta `musica/`. Si usas un nombre o formato diferente, actualiza la línea `song = loadSound('musica/videoplayback.m4a');` en `sketch.js`.
-4.  **Abrir `index.html`:** Simplemente abre el archivo `index.html` en tu navegador web. También puedes usar una extensión de servidor en vivo como "Live Server" en VS Code para un desarrollo más cómodo.
+2.  **Añadir tu Música:** Asegúrate de tener tu archivo de música (actualmente configurado como `videoplayback.m4a`) dentro de la carpeta `musica/`. Si usas un nombre o formato diferente, actualiza la línea `song = loadSound('musica/videoplayback.m4a');` en `sketch.js`.
+3.  **Abrir `index.html`:** Simplemente abre el archivo `index.html` en tu navegador web. También puedes usar una extensión de servidor en vivo como "Live Server" en VS Code para un desarrollo más cómodo.
 
 
 ## 📚 Créditos
