@@ -1,0 +1,83 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    background: #FFFAF0;
+    padding: 20px;
+    color: #4A2B2B;
+    margin: 0;
+    padding: 20px 10px;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: #8B4513;
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+#musicBox {
+    margin: 20px auto;
+    width: 90vw;
+    max-width: 600px;
+    height: 40vh;
+    max-height: 300px;
+    border: 3px solid #D2691E;
+    background: #FFF8DC;
+    box-shadow: 0 0 15px #CD853F;
+    border-radius: 8px;
+    overflow: hidden;
+    position: relative; /* Needed for absolute positioning of canvas if used */
+}
+
+canvas {
+    display: block;
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: contain; /* Ensures the canvas scales nicely within its container */
+}
+
+button {
+    background-color: #A0522D;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+    margin-top: 10px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #CD5C5C;
+}
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2em;
+    }
+
+    button {
+        font-size: 0.9em;
+        padding: 8px 15px;
+    }
+
+    #musicBox {
+        height: 35vh;
+    }
+}
+
+@media (max-width: 480px) {
+    h1 {
+        font-size: 1.7em;
+    }
+
+    button {
+        font-size: 0.8em;
+        padding: 6px 12px;
+    }
+
+    #musicBox {
+        height: 30vh;
+    }
+}
