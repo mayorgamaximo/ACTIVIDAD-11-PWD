@@ -8,7 +8,7 @@ La aplicación permite al usuario reproducir una canción y ver cómo elementos 
 
 ## ✨ Características
 
-* [cite_start]**Visualización de Audio:** Muestra barras de espectro y una forma de onda que reaccionan al audio[cite: 7].
+* **Visualización de Audio:** Muestra barras de espectro y una forma de onda que reaccionan al audio.
 * **Colores Armoniosos:** Diseñado con una paleta de colores cálidos y armoniosos para una experiencia visual agradable.
 * **Responsivo:** Se adapta a diferentes tamaños de pantalla, desde dispositivos móviles hasta escritorios.
 * **Control de Reproducción:** Botón para iniciar y pausar la música.
@@ -46,6 +46,6 @@ caja-musica/
 
 ## 📚 Créditos
 
-[cite_start]Este proyecto fue desarrollado para la Actividad 11 de la materia "Proyecto de Implementación de Sitios web Dinámicos" [cite: 10] [cite_start]impartida en la EEST N.º 1 - "Eduardo Ader"[cite: 10], Vicente López.
+Este proyecto fue desarrollado para la Actividad 11 de la materia "Proyecto de Implementación de Sitios web Dinámicos" impartida en la EEST N.º 1 - "Eduardo Ader", Vicente López.
 
-[cite_start]**Profesor:** York [cite: 123] (Docente de la asignatura)
+**Profesor:** York  (Docente de la asignatura)
