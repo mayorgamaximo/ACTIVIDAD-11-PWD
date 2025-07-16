@@ -24,6 +24,7 @@ La aplicación permite al usuario reproducir una canción y ver cómo elementos 
 
 ## 📁 Estructura del Proyecto
 caja-musica/
+
 ├── index.html
 
 ├── styles.css
